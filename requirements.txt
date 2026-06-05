@@ -1,0 +1,17 @@
+
+streamlit
+easyocr
+pytesseract
+opencv-python-headless
+numpy
+pandas
+pillow
+spacy
+pymupdf
+fastapi
+uvicorn
+pymongo
+python-multipart
+torch
+torchvision
+transformers

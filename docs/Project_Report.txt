@@ -1,0 +1,39 @@
+
+INTELLIGENT DOCUMENT PROCESSING SYSTEM
+
+Project Overview
+This project is an advanced Intelligent Document Processing System developed using OCR,
+Computer Vision, NLP, Streamlit, and FastAPI. The system processes invoices, resumes,
+KYC documents, insurance forms, healthcare records, and logistics documents.
+
+Main Features
+1. OCR extraction using EasyOCR and Tesseract
+2. NLP entity extraction using spaCy
+3. Multi-document upload support
+4. PDF and image processing
+5. MongoDB database integration
+6. FastAPI backend integration
+7. Streamlit frontend dashboard
+8. Download structured JSON output
+9. Image preprocessing using OpenCV
+10. Cloud deployment ready architecture
+
+Business Use Cases
+- Invoice Processing
+- KYC Verification
+- Resume Parsing
+- Insurance Claims
+- Healthcare Digitization
+- Logistics Documentation
+- Government Form Processing
+
+Technologies Used
+- Python
+- Streamlit
+- EasyOCR
+- Tesseract
+- OpenCV
+- spaCy
+- MongoDB
+- FastAPI
+- PyMuPDF
